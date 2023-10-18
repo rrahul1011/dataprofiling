@@ -6,3 +6,4 @@ python-dotenv
 ydata-profiling
 streamlit-pandas-profiling
 openpyxl
+xlsxwriter
